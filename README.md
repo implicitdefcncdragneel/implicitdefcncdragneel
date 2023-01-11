@@ -28,7 +28,8 @@
 
 <h3 align="left"> 📕 Latest Blog Posts </h3>
 
-- [Version Control](https://medium.com/@chandranandan.chandrakar/version-control-50b54b4c8006)
-- [Postgres DB Partition inside Docker Container](https://medium.com/@chandranandan.chandrakar/postgres-db-partition-inside-docker-container-cc8e8e04c2a1)
+- [Version Control](https://medium.com/@cncdragneel/version-control-50b54b4c8006)
+- [Postgres DB Partition inside Docker Container](https://medium.com/@cncdragneel/postgres-db-partition-inside-docker-container-cc8e8e04c2a1)
+- [Config Daphne,Gunicorn,Nginx and Redis inside Docker Container with Django](https://cncdragneel.medium.com/config-daphne-gunicorn-nginx-and-redis-inside-docker-container-with-django-46d1f79eef00)
 
 ➡️ [more blog posts...](https://medium.com/@chandranandan.chandrakar)
